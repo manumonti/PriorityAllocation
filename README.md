@@ -1,12 +1,11 @@
 # Alpha leaks demo
 
-> [!WARNING]  
+> [!WARNING]
 > This is an outdated demo that will not work with recent versions of [taco-web](https://github.com/nucypher/taco-web/)
 
 See the live demo [here](https://nucypher.github.io/alpha-leaks-demo/).
 
-This is a demo that illustrates a use case of [Nucypher's Conditions-Based
-Decryption](https://docs.threshold.network/app-development/threshold-access-control-tac/get-started-with-tac).
+This is a demo that illustrates a use case of [TACo](https://docs.taco.build/).
 
 This is a weblog. There are three levels of subscription. Each subscription level will let you
 access the posts corresponding to your subscription. Subscription levels are defined by the balance
